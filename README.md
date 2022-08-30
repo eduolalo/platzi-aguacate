@@ -2,6 +2,6 @@
 
 ## Repo del curso de Platzi para usar NextJS
 
-### Clase 5
+### Clase 6 y 6
 
-Ruteo dinámico con NextJS
+Revisando el pre renderizado de NextJS
