@@ -2,6 +2,6 @@
 
 ## Repo del curso de Platzi para usar NextJS
 
-### Clase 6 y 6
+### Clase 8
 
-Revisando el pre renderizado de NextJS
+Utilizando el linkeo de páginas en NextJS
